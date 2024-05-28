@@ -1,0 +1,30 @@
+body
+{
+	background-color: #343434; /*indique la couleur de fond de la page web*/
+}
+
+p
+{
+        color: white;
+	font-family: verdana; /*Cette police de caractÃ¨re sera appliquÃ©e aux trois balises*/
+}
+
+
+p
+{
+	font-size: medium; /*Indique la taille des caractÃ¨res dans les paragraphes*/
+	text-align: justify;/*Indique le type d'alignement du texte dans les paragraphes*/
+}
+
+h1
+{
+	font-size: xx-large;
+	color: black;
+	background-color: #EE4B2B;
+}
+
+h2
+{
+	font-size: large;
+	color: red;
+}
